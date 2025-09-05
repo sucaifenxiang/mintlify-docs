@@ -4,7 +4,7 @@ Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
-阿斯卡对接焊缝拉胯十九大合法拉卡手机打合法垃圾筐水电费拉手费啦时间的话发拉屎交电话费拉数据看到回复啦时间的话放
+阿斯卡对机打合法垃圾筐水电费拉手费啦时间的话发拉屎交电话费拉数据看到回复啦时间的话放
 
 afdsff阿斯顿发斯蒂芬
 
