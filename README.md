@@ -4,15 +4,16 @@ Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
-阿斯卡对接焊缝拉胯十九大合法拉卡手机打合法垃圾筐水电费拉手孔交电话费拉手孔交电话费啦时间的话发拉屎交电话费拉数据看到回复啦时间的话放
-
 - Guide pages
 - Navigation
 - Customizations
 - API reference pages
 - Use of popular components
-- 发生了大口径法兰上课的激发阿萨德会计法阿斯卡冷冻机房啊开始大姐夫
-- sdfasdf
+- 啊收到了；访客
+
+阿斯利康地方
+
+123123
 
 [**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
 
