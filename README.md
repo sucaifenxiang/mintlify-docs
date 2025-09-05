@@ -7,6 +7,9 @@ Click the green **Use this template** button at the top of this repo to copy the
 - Guide pages
 - Navigation
 - Customizations
+- asd;'kfa;sldkf';alsdkf 
+- asd;lfka;sldkf as;dlkf 
+- ;alsdkf'a;lsdkf'asld;kf 
 - API reference pages
 - Use of popular components
 - 啊收到了；访客
