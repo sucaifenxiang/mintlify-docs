@@ -1,4 +1,4 @@
-# Mintlify Starter Kit
+# Mintlify Starter Kit 11111
 
 Use the starter kit to get your docs deployed and ready to customize.
 
@@ -7,6 +7,8 @@ Click the green **Use this template** button at the top of this repo to copy the
 阿斯法垃圾筐水电费拉手费啦时间的话发拉屎交电话费拉数据看到回复啦时间的话放
 
 afdsff阿斯顿发斯蒂芬
+
+阿凡达索拉卡；积分；老卡机； 卡死；抵扣积分
 
 sdf dsaf asdf asdf asdf sadf asd fasd fasdf asdf asdf asdf asdf
 
